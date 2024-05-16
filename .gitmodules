@@ -7,12 +7,6 @@
 [submodule "g5"]
 	path = g5
 	url = https://github.com/mdecd2024/2b-midbg5
-<<<<<<< HEAD
-[submodule "g1"]
-	path = g1
-	url = https://github.com/mdecd2024/2b-midbg1
-=======
 [submodule "g2"]
 	path = g2
 	url = https://github.com/mdecd2024/2b-midbg2
->>>>>>> refs/remotes/origin/main
