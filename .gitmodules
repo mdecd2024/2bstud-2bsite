@@ -10,3 +10,6 @@
 [submodule "g2"]
 	path = g2
 	url = https://github.com/mdecd2024/2b-midbg2
+[submodule "g8"]
+	path = g8
+	url = https://github.com/mdecd2024/2b-midbg8
