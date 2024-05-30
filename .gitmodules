@@ -16,3 +16,6 @@
 [submodule "g7"]
 	path = g7
 	url = https://github.com/mdecd2024/2bstud-2bsite
+[submodule "g3"]
+	path = g3
+	url = https://github.com/mdecd2024/2b-midbg3.git
