@@ -19,3 +19,6 @@
 [submodule "g3"]
 	path = g3
 	url = https://github.com/mdecd2024/2b-midbg3.git
+[submodule "g1"]
+	path = g1
+	url = https://github.com/mdecd2024/2b-midbg1
